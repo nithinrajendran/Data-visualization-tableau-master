@@ -1,5 +1,4 @@
-# Data-visualization-tableau-master
-Crime incidents in Philadelphia
+# Crime incidents in Philadelphia
 
 Hi everyone, I am publishing this post as part of "The ultimate value embedded in Data" series with the aim to share my learning journey as a data scientist.
 
